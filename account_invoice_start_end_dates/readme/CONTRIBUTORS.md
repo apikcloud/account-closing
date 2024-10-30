@@ -2,3 +2,4 @@
 - Jeroen Evens \<<jeroen.evens@dynapps.be>\>
 - [Trobz](https://trobz.com):  
   - Thao Le <thaolt@trobz.com>
+- Frederic Grall \<<fgr@apik.cloud>>
